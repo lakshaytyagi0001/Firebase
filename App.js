@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import * as firebase from '';
-import ApiKeys from './Apikeys';
+import ApiKeys from './Apikeys'; 
+import * as firebase from 'firebase';
 
 export default class App extends React.Component {
   render() {

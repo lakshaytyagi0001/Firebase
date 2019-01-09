@@ -4,8 +4,9 @@ export default {
     authDomain: "fir-e7e39.firebaseapp.com",
     databaseURL: "https://fir-e7e39.firebaseio.com",
     projectId: "fir-e7e39",
-    storageBucket: "",
+    storageBucket: "fir-e7e39.appspot.com",
     messagingSenderId: "829638181659"
+
 
     }
 };
